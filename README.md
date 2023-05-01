@@ -7,5 +7,14 @@ I am Sahidul Islam. My Linkdin [Link](https://www.linkedin.com/in/sahidul-islam-
 4. [Continous Integration Using Jenkins, Nexus, Sonarqube and Slack](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Continous%20Integration%20Using%20Jenkins%2C%20Nexus%2C%20Sonarqube%20and%20Slack)<br/>
 5. [Continous Integration on AWS Cloud](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Continous%20Integration%20on%20AWS%20Cloud)<br/>
 6. [CONTINUOUS DELIVERY OF JAVA WEB APPLICATION](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/CONTINUOUS%20DELIVERY%20OF%20JAVA%20WEB%20APPLICATION)<br/>
-7. [VPC Setup for Vprofile Project on AWS Cloud using Ansible for Cloud Automation](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/VPC%20Setup%20for%20Vprofile%20Project%20on%20AWS%20Cloud%20using%20Ansible%20for%20Cloud%20Automation)<br/>
+7. [VPC Setup for Vprofile Project on AWS Cloud using Ansible for Cloud Automation](https://github.com/Sahid20/ansible-aws-vpc)<br/>
 
+
+<br/>Advanced Multimedia Communication Project<br/>
+[Comparative Analysis of Best-Effort (non- Quality
+of Service ) networks and Quality of Service
+enabled networks in Voice over IP (VoIP) Enterprise
+Local Area Network](https://github.com/Sahid20/Advanced-Multimedia-Communication-AMC-Project)<br/>
+
+<br/> Machine Learning Project<br/>
+[Cologne Rent Predection](https://github.com/Sahid20/Machine-Learning-Project) <br/>
