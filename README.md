@@ -8,6 +8,8 @@ I am Sahidul Islam. My Linkdin [Link](https://www.linkedin.com/in/sahidul-islam-
 5. [Continous Integration on AWS Cloud](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Continous%20Integration%20on%20AWS%20Cloud)<br/>
 6. [CONTINUOUS DELIVERY OF JAVA WEB APPLICATION](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/CONTINUOUS%20DELIVERY%20OF%20JAVA%20WEB%20APPLICATION)<br/>
 7. [VPC Setup for Vprofile Project on AWS Cloud using Ansible for Cloud Automation](https://github.com/Sahid20/ansible-aws-vpc)<br/>
+8. [Continuous Delivery And Configuration Managament](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Continuous%20Delivery%20And%20Configuration%20Managament) <br/>
+9. [Hybrid Continuous Delivery](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Hybrid%20Continuous%20Delivery)
 
 
 <br/>Advanced Multimedia Communication Project<br/>
