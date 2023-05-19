@@ -1,6 +1,6 @@
 I am Sahidul Islam. My Linkdin [Link](https://www.linkedin.com/in/sahidul-islam-2b312a235/)<br />
 <br />Projects List:<br />
-<br/>DevOps Projects<br/>Automated Setup Multi-Tier App Locally
+<br/>DevOps Projects<br/>
 1. [Automated Setup Multi-Tier App Locally ](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Automated%20Setup%20Multi-Tier%20App%20Locally)<br/>
 2. [Lift & Shift Application Workflow to AWS](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Lift%20and%20Shift%20Application%20Workload%20to%20AWS)<br />
 3. [Re-Architecting Web App on AWS Cloud[Cloud Native]](https://github.com/Sahid20/DevOps_Projects_AWS/tree/main/Re-Architecting%20Web%20App%20on%20AWS%20Cloud%5BCloud%20Native%5D)<br/>
